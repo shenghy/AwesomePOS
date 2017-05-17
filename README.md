@@ -1,6 +1,9 @@
-# pos
+# AwesomePOS 
 
-> A Vue.js project
+> 这是为老婆作的快餐店管理系统，已经答应老婆作好几年了都没给他作，今天开始要为老婆制作这个系统。
+
+## 技术栈
+前端 ：vue2 + webpack + vueRouter + element
 
 ## Build Setup
 
