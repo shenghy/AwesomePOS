@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <!--左侧导航-->
-    <div class="leftNav">
+    
         <leftNav></leftNav>
-    </div>
+    
     <!--操作区域-->
     <div class="main">
       <router-view></router-view>
@@ -30,12 +30,7 @@ export default {
   color: #2c3e50;
    height:100%;
 }
-.leftNav{
-  height:100%;
-  background-color: #1D8ce0;
-  float:left;
-  width:5%;
-}
+
 .main{
   float:left;
   width:95%; 
